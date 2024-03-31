@@ -1,0 +1,56 @@
+{
+  "name": "dolorut",
+  "version": "1.0.0",
+  "description": "Non-fungible token standard implementation for the Ethereum blockchain.",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile",
+    "flatten": "npx hardhat flatten",
+    "coverage": "npx hardhat coverage",
+    "solhint": "solhint src/**/*.sol"
+  },
+  "author": "CharityWeber",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MargueriteDonnelly/dolorut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MargueriteDonnelly/dolorut.git/issues"
+  },
+  "homepage": "https://github.com/MargueriteDonnelly/dolorut.git",
+  "keywords": [
+    "et",
+    "blockchain",
+    "eth",
+    "et",
+    "voluptatem",
+    "smart",
+    "quo",
+    "nemo",
+    "token",
+    "tokens",
+    "nft",
+    "culpa",
+    "ex",
+    "occaecati",
+    "dolores",
+    "ratione",
+    "soluta",
+    "erc-721",
+    "deed",
+    "delectus"
+  ],
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "2.0.2",
+    "@nomiclabs/hardhat-waffle": "2.0.1",
+    "chai": "4.3.4",
+    "ethereum-waffle": "3.4.0",
+    "ethers": "5.4.6",
+    "hardhat": "2.6.4",
+    "hardhat-abi-exporter": "2.3.0",
+    "solhint": "3.3.6",
+    "solidity-coverage": "0.7.17",
+    "ts-node": "10.2.1"
+  }
+}
